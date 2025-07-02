@@ -20,4 +20,5 @@ El contenido de este repositorio está disponible para **cualquier estudiante qu
 Intentaré subir todos los proyectos desarrollados por mi persona a lo largo del curso para que puedan ser revisados y reutilizados por otros estudiantes si así lo desean.
 
 
-![Foto chistosa](fa8dd94a-d0aa-4a8c-b696-ef7502d05a05.png)
+![image](https://github.com/user-attachments/assets/153ae87f-db90-4e1a-947f-c5fd65d7e3fe)
+
