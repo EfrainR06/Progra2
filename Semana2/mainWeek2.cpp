@@ -1,6 +1,6 @@
 //Efrain Retana Segura UNA
 
-
+/*
 #include <cstdlib>
 #include <cmath>
 #include <iostream>
@@ -31,3 +31,4 @@ int main(int argc, char** argv) {
     return 0;
 }
 
+*/
