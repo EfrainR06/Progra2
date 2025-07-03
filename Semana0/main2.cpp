@@ -1,5 +1,5 @@
 // Efrain Retana Segura UNA
-
+/*
 #include <cstdlib>
 #include <iostream>
 #include <vector>
@@ -55,3 +55,4 @@ void cribaEratostenes(int n) {
     cout << "menores o iguales a " << n << "." << endl;
     cout << endl;
 }
+*/
