@@ -22,4 +22,18 @@ add_executable(PrograII
         Semana3/a1.cpp
         Semana3/a1.h
         Semana3/mainWeek3.cpp
-        Semana3/clases.h)
+        Semana3/clases.h
+        Semana4/mainWeek4.cpp
+        Semana5/MainWeek5_1.cpp
+        Semana5/a2.cpp
+        Semana5/a2.h
+        Semana5/b2.cpp
+        Semana5/b2.h
+        Semana5/ib.h
+        Semana5/d.cpp
+        Semana5/d.h
+        Semana5/b4.cpp
+        Semana5/b4.h
+        "Semana5/clases2 .h"
+        Semana5/mainWeek5_2.cpp
+)

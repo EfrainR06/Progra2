@@ -4,8 +4,7 @@
 #define B_H
 
 
-
-class b {
+class b{
 public:
     void p();
 
