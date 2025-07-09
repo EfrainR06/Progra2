@@ -47,4 +47,11 @@ add_executable(PrograII
         Semana6/Ejemplo10/listaPersonas.h
         Semana6/Ejemplo10/clases3.h
         Semana6/Ejemplo10/mainWeek6Exercise10.cpp
+        Semana6/MainWeek6.cpp
+        Semana7/baseObject2.cpp
+        Semana7/baseObject2.h
+        Semana7/a3.cpp
+        Semana7/a3.h
+        Semana7/smartPtr.h
+        Semana7/MainWeek7.cpp
 )

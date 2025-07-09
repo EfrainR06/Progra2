@@ -1,5 +1,5 @@
 //Efrain Retana Segura UNA
-
+/*
 #include <cstdlib>
 #include <iomanip>
 #include <iostream>
@@ -35,3 +35,4 @@ int main(int, char**) {
     return 0;
 }
 
+*/
