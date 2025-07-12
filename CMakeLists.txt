@@ -98,4 +98,11 @@ add_executable(PrograII
         Semana10/observer/estrategia1.cpp
         Semana10/observer/estrategia1.h
         Semana10/observer/MainWeek10Observer.cpp
+        Semana10/strategy/ansi_term1.cpp
+        Semana10/strategy/ansi_term1.h
+        Semana10/strategy/estrategia2.cpp
+        Semana10/strategy/estrategia2.h
+        Semana10/strategy/contexto2.cpp
+        Semana10/strategy/contexto2.h
+        Semana10/strategy/MainWeek10Strategy.cpp
 )
