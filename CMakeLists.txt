@@ -54,4 +54,9 @@ add_executable(PrograII
         Semana7/a3.h
         Semana7/smartPtr.h
         Semana7/MainWeek7.cpp
+        Semana8/ejemplo15/ia.cpp
+        Semana8/ejemplo15/ia.h
+        Semana8/ejemplo15/a4.cpp
+        Semana8/ejemplo15/a4.h
+        Semana8/ejemplo15/MainWeek8Exercise15.cpp
 )
