@@ -91,4 +91,11 @@ add_executable(PrograII
         Semana11/ansi_term.cpp
         Semana11/ansi_term.h
         Semana11/MainWeek11.cpp
+        Semana10/observer/baseObject5.cpp
+        Semana10/observer/baseObject5.h
+        Semana10/observer/contexto1.cpp
+        Semana10/observer/contexto1.h
+        Semana10/observer/estrategia1.cpp
+        Semana10/observer/estrategia1.h
+        Semana10/observer/MainWeek10Observer.cpp
 )

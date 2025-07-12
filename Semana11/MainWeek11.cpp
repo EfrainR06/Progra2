@@ -1,4 +1,4 @@
-
+/*
 #include <cstdlib>
 #include <chrono>
 #include <iomanip>
@@ -7,7 +7,7 @@
 #include <thread>
 #include "ansi_term.h"
 #include "matriz.h"
-
+*/
 /* -------------------------------------------------------------------+
  *                                                                    |
  * (c) 2025                                                           |
@@ -17,6 +17,7 @@
  * -------------------------------------------------------------------+
  */
 
+/*
 using namespace std;
 using namespace ansi_term;
 
@@ -81,3 +82,4 @@ T stot(std::string s) {
     }
     return r;
 }
+*/
