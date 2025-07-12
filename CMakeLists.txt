@@ -70,4 +70,25 @@ add_executable(PrograII
         Semana8/semana12_2/d3.h
         Semana8/semana12_2/clases4.h
         Semana8/semana12_2/MainWeek8Exercise12_2.cpp
+        Semana9/Ejemplo19/token.cpp
+        Semana9/Ejemplo19/token.h
+        Semana9/Ejemplo19/baseObject3.cpp
+        Semana9/Ejemplo19/baseObject3.h
+        Semana9/Ejemplo19/b5.cpp
+        Semana9/Ejemplo19/b5.h
+        Semana9/Ejemplo19/clases5.h
+        Semana9/Ejemplo19/MainWeek9Exercise19.cpp
+        Semana9/Experimento9/mainWeek9Experiment9.cpp
+        Semana10/ExperimentoEstrategia/contexto.cpp
+        Semana10/ExperimentoEstrategia/contexto.h
+        Semana10/ExperimentoEstrategia/baseObject4.cpp
+        Semana10/ExperimentoEstrategia/baseObject4.h
+        Semana10/ExperimentoEstrategia/estrategia.cpp
+        Semana10/ExperimentoEstrategia/estrategia.h
+        Semana10/ExperimentoEstrategia/MainWeek10.cpp
+        Semana11/matriz.cpp
+        Semana11/matriz.h
+        Semana11/ansi_term.cpp
+        Semana11/ansi_term.h
+        Semana11/MainWeek11.cpp
 )
