@@ -59,4 +59,15 @@ add_executable(PrograII
         Semana8/ejemplo15/a4.cpp
         Semana8/ejemplo15/a4.h
         Semana8/ejemplo15/MainWeek8Exercise15.cpp
+        Semana8/semana12_2/f.cpp
+        Semana8/semana12_2/f.h
+        Semana8/semana12_2/b4.h
+        Semana8/semana12_2/d1.cpp
+        Semana8/semana12_2/d1.h
+        Semana8/semana12_2/d2.cpp
+        Semana8/semana12_2/d2.h
+        Semana8/semana12_2/d3.cpp
+        Semana8/semana12_2/d3.h
+        Semana8/semana12_2/clases4.h
+        Semana8/semana12_2/MainWeek8Exercise12_2.cpp
 )
